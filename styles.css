@@ -1,0 +1,13 @@
+ul, ol li {
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+strong {
+    color: blue;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
